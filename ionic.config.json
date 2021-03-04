@@ -1,0 +1,7 @@
+{
+  "name": "Assign2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
